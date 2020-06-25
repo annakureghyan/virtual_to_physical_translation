@@ -1,4 +1,4 @@
-# Translate virtual address to physical address
+# Translate virtual addresses to physical addresses
 
 The goal of this project is to write a program that translates virtual address to physical address
 
